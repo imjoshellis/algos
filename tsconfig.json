@@ -1,8 +1,10 @@
 {
   "compilerOptions": {
-    "target": "es6",
+    "target": "esNext",
     "module": "commonjs",
-    "lib": ["dom", "es6", "es2017", "es2019", "esnext.asynciterable"],
+    "lib": [
+      "esNext"
+    ],
     "sourceMap": true,
     "outDir": "./dist",
     "moduleResolution": "node",
@@ -21,6 +23,10 @@
     "resolveJsonModule": true,
     "baseUrl": "."
   },
-  "exclude": ["node_modules"],
-  "include": ["./**/*.ts"]
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "./**/*.ts"
+  ]
 }
