@@ -15,7 +15,10 @@
   },
   "jest": {
     "preset": "ts-jest",
-    "testEnvironment": "node"
+    "testEnvironment": "node",
+    "moduleDirectories": [
+      "."
+    ]
   },
   "devDependencies": {
     "@types/jest": "^27.4.1",
