@@ -6,9 +6,7 @@ This repository is a work in progress. The goal is to consolidate my algorithm c
 
 As I solve problems from LeetCode and other sources, I'll add them in the [solved directory](https://github.com/imjoshellis/algos/tree/main/solved).
 
-Each solution will have a suite of tests and a readme file explaining the thought process and code.
-
-`12/1/2020 NOTE`: I just decided to restructure this repo and decided to add readmes to everything. Right now, there will be a lot of empty readmes in the solved folders. Any folder starting with LC-#### will have a comprehensive readme.
+Each solution will have a suite of tests and a readme file (sometimes) explaining thought process and code.
 
 ## Scripts
 
